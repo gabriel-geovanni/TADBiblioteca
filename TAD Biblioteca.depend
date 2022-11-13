@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1623361788 source:c:\users\geova\documents\ufop\semestre ii\aed i\programas\tad biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"livro.h"
+	"usuario.h"
+	"emprestimo.h"
+
+1623361184 source:c:\users\geova\documents\ufop\semestre ii\aed i\programas\tad biblioteca\livro.c
+	"livro.h"
+
+1623328643 c:\users\geova\documents\ufop\semestre ii\aed i\programas\tad biblioteca\livro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623360559 source:c:\users\geova\documents\ufop\semestre ii\aed i\programas\tad biblioteca\usuario.c
+	"usuario.h"
+
+1623360514 c:\users\geova\documents\ufop\semestre ii\aed i\programas\tad biblioteca\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"livro.h"
+
+1623361778 c:\users\geova\documents\ufop\semestre ii\aed i\programas\tad biblioteca\emprestimo.h
+	<stdio.h>
+	<stdlib.h>
+	"usuario.h"
+
+1623361184 source:c:\users\geova\documents\ufop\semestre ii\aed i\programas\tad biblioteca\emprestimo.c
+	"emprestimo.h"
+
+1623361184 source:c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\emprestimo.c
+	"emprestimo.h"
+
+1623361778 c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\emprestimo.h
+	<stdio.h>
+	<stdlib.h>
+	"usuario.h"
+
+1623360514 c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"livro.h"
+
+1623328643 c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\livro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623361184 source:c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\livro.c
+	"livro.h"
+
+1623360559 source:c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\usuario.c
+	"usuario.h"
+
+1624058957 source:c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+
+1624059065 source:c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1624059057 c:\users\geova\documents\ufop\semestre ii\aeds i\programas\tad biblioteca\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"livro.h"
+	"usuario.h"
+	"emprestimo.h"
+
